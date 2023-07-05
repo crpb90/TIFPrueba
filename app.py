@@ -203,6 +203,6 @@ Este código es el programa principal de la aplicación Flask. Se verifica si el
 
 '''
 # Programa Principal
-if __name__ == "__main__":
+#if __name__ == "__main__":
     # Ejecuta el servidor Flask en el puerto 5000 en modo de depuración
-    app.run(debug=True, port=5000)
+ #   app.run(debug=True, port=5000)
