@@ -11,7 +11,7 @@ createApp({
       imagen: "",
       stock: 0,
       precio: 0,
-      url: "http://Crod23.pythonanywhere.com/productos/" + id,
+      url: "https://Crod23.pythonanywhere.com/productos/" + id,
     };
   },
   methods: {
